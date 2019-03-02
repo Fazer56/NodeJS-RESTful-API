@@ -1,0 +1,5 @@
+CORS
+MongoDB Atlas
+Morgan for displaying log info
+Nodemon utility that will monitor
+for any changes in your source and automatically restart your server
